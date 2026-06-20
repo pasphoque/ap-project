@@ -4,12 +4,6 @@ Welcome to our AP 2026 project.
 
 **ZOYL (Zombies On Your Lawn)** is a student team focused on recreating the core gameplay experience of **Plants vs Zombies 2**.
 
-## Team Members
-
-- Mani Kiamaneshi — 404106271
-- Parsa Bagherian — 404171014
-- Amin Sheikh Beiglou — 404171093
-
 ## About the Project
 
 This project was developed as part of the **Advanced Programming (AP) 2026** course. The objective is to recreate the main mechanics of Plants vs Zombies 2 while applying object-oriented programming and software engineering principles.
